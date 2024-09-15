@@ -1,5 +1,7 @@
 # Custom Eva Theme
 
+Goal: serve up an interesting EVA theme, and teach you to make your own. Thanks to the original [EVA](https://github.com/garyblocks/eva-zsh-theme) theme.
+
 ## Prerequisites: 
 - Install ZSH and Oh My Zsh
 - Access your <code>~/.zshrc</code> file and find the <code>THEME=""</code> line

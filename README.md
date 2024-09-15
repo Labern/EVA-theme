@@ -3,7 +3,6 @@
 ## Prerequisites: 
 - Install ZSH and Oh My Zsh
 - Access your <code>~/.zshrc</code> file and find the <code>THEME=""</code> line
-- Bonus: Add an EVA reference by adding an alias like <code>CONFIG_EVA="nano \~/.oh-my-zsh/themes/custom.zsh-theme"</code> to <code>~/.zshrc</code> so you can run <code>CONFIG_EVA</code> to tweak it, as if you were Mistato, shouting orders at people before going back to Pen-Pen and boozin'.
 
 # How to use
 
@@ -43,3 +42,14 @@ You may need to use <code>chmod +x ~/.zshrc</code> to be able to access it.
 Also, make sure to select a text editor you like to open the files, e.g. <code>***nano*** ~/.oh-my-zsh/themes/custom.zsh-theme</code>
 
 This was built from the [EVA theme](https://github.com/garyblocks/eva-zsh-theme), and modified.
+
+# Bonus:
+Add an EVA reference by adding an alias like <code>CONFIG_EVA="nano \~/.oh-my-zsh/themes/custom.zsh-theme"</code> to <code>~/.zshrc</code> so you can run <code>CONFIG_EVA</code> to tweak it, as if you were Mistato, shouting orders at people before going back to Pen-Pen and boozin'.
+
+![Misato and Pen-Pen](/images/Misato.png)
+
+# Example 
+
+As you'll note, the line is hilariously long. The idea is to teach you how it all works so you can learn for yourself. You can even split things up onto separate lines to make something gloriously colourful.
+
+![Example of the theme](/images/Example.jpg)

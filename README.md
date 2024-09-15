@@ -1,3 +1,10 @@
+# Custom Eva Theme
+
+## Prerequisites: 
+- Install ZSH and Oh My Zsh
+- Access your <code>~/.zshrc</code> file and find the <code>THEME=""</code> line
+- Bonus: Add an EVA reference by adding an alias like <code>CONFIG_EVA="nano \~/.oh-my-zsh/themes/custom.zsh-theme"</code> to <code>~/.zshrc</code> so you can run <code>CONFIG_EVA</code> to tweak it, as if you were Mistato, shouting orders at people before going back to Pen-Pen and boozin'.
+
 # How to use
 
 1. Go to <code>~/.oh-my-zsh/themes</code> and add **<code>custom.zsh-theme</code>**.

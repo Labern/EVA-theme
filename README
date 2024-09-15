@@ -1,0 +1,8 @@
+# How to use
+
+# Go to ~/.oh-my-zsh/themes and add theme 
+# Open ~/.zshrc and add THEME="custom"
+
+# To customise, go to ~/.oh-my-zsh/themes/custom.zsh-theme
+
+# Follow the instructions inside the file

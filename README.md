@@ -47,6 +47,15 @@ Also, make sure to select a text editor you like to open the files, e.g. <code>*
 
 This was built from the [EVA theme](https://github.com/garyblocks/eva-zsh-theme), and modified.
 
+# Always respect Pen-Pen
+
+The right side of the prompt, <code>EVA \ 33.3 \ ペンペ</code>, means <code>EVA \ 33.3 \ Pen-Pen</code> (in Katakana). That is:
+
+[What does ペンペン mean?](https://www.google.com/search?q=%E3%83%9A%E3%83%B3%E3%83%9A%E3%83%B3)
+
+![Respect this man](/images/Pen-Pen.jpg)
+
+
 # Bonus:
 Add an EVA reference by adding an alias like <code>CONFIG_EVA="nano \~/.oh-my-zsh/themes/custom.zsh-theme"</code> to <code>~/.zshrc</code> so you can run <code>CONFIG_EVA</code> to tweak it, as if you were Mistato, shouting orders at people before going back to Pen-Pen and boozin'.
 

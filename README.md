@@ -1,4 +1,4 @@
-# Custom Eva Theme
+# Custom EVA Theme
 
 Goal: serve up an interesting EVA theme, and teach you to make your own. Thanks to the original [EVA](https://github.com/garyblocks/eva-zsh-theme) theme.
 
@@ -38,6 +38,8 @@ In this case, it will change the prompt to the user's name in blue.
 <code>%{$fg_bold[blue]%}</code> — that is, <code>%{</code> opens the statements, then <code>fg_bold</code> selects the formatting (in this case, bold), and <code>[blue]</code> selects the colour. So you have: "Insert bold text of colour blue".
 
 ## Notes
+
+The theme is entitled "custom" because the goal is for you to create your own. While the original has its own colours and elements, you should be able to make your own and create something preposterous. That's why it's called <code>custom.zsh-theme</code>.
 
 You may need to use <code>chmod +x ~/.zshrc</code> to be able to access it.
 

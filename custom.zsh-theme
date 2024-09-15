@@ -1,8 +1,6 @@
 PROMPT='%{$fg_no_bold[green]%}<%n%{$fg_no_bold[magenta]%}-UNIT01%{$fg_no_bold[green]%}> %{$fg_no_bold[blue]%} PROJECT EVA•: %}%{$fg_no_bold[yellow]%}%3~ $(git_prompt_info)%{$fg_no_bold[red]%}✝ ● ヨ: '
 #                              labern                   -UNIT01                      >                       PROJECT EVA•:                          /Users                                    ✝ ● ヨ:
 
-# A change
-
 # RPROMPT='EVA \\ 33.3 \\ [%*]'
 RPROMPT='%{$fg_no_bold[red]%}EVA %{$fg_no_bold[red]%}\\ 33.3 \\ ペンペン'
 
